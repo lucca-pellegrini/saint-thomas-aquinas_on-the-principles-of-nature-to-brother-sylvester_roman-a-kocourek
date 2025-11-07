@@ -48,8 +48,8 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://aquinas.cc/la/en/~DePrinNat</dc:source>
-		<meta property="se:word-count">6092</meta>
-		<meta property="se:reading-ease.flesch">54.66</meta>
+		<meta property="se:word-count">6104</meta>
+		<meta property="se:reading-ease.flesch">55.27</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/De_principiis_naturae,_ad_fratrem_Sylvestrum</meta>
 		<meta property="se:url.vcs.github">https://github.com/lucca-pellegrini/saint-thomas-aquinas_on-the-principles-of-nature-to-brother-sylvester_roman-a-kocourek</meta>
 		<dc:creator id="author">Saint Thomas Aquinas</dc:creator>
