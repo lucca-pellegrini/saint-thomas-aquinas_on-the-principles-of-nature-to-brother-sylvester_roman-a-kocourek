@@ -29,10 +29,6 @@
 			<code>m-054</code>
 			<reason>This is a private repo, and we want custom URLs referencing the Standard Ebooks Toolset and Style Guide, without implying that this particular ebook was approved by the Standard Ebooks Collections Policy.</reason>
 		</ignore>
-		<ignore>
-			<code>t-064</code>
-			<reason>This is a private repo, and the cover art is not a painting, but a photograph of a stained glass window. As such, it doesn't have a title, except that which is found in it's Wikimedia Commons page, which is pasted verbatim here.</reason>
-		</ignore>
 	</file>
 	<file path="content.opf">
 		<ignore>
